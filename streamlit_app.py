@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+#substituir balaão por iconme de escrita
+
+st.title("🎈 Criador de  textos")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Criador de textos como monólogos personalizados com o seu sentimento, seu gênero textual, a idade e tema favorito."
 )
